@@ -1,6 +1,6 @@
 # Design and Analysis Algorithm Lab
 
-This repository contains implementations and analysis for a variety of algorithms typically covered in a Design and Analysis of Algorithms course. The projects here showcase different algorithmic strategies with sample code, problem statements, and analysis details.
+This repository contains implementations and analysis for a variety of algorithms typically covered in a Design and Analysis of Algorithms course. The projects here showcase different algorithmic strategies with sample code, problem statements.
 
 ## Repository Structure
 
